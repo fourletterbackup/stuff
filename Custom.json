@@ -21,7 +21,7 @@
 		"INTERACTIVE_ACTIVE": ["#FF0000", "#FF0000"],
 		"INTERACTIVE_MUTED": ["#aaaaaa", "#FF0000"],
 		"INTERACTIVE_NORMAL": ["#aaaaaa", "#FF0000"],
-		"TEXT_LINK": ["#00ff00", "#FF0000"],
+		"TEXT_LINK": ["#FF0000", "#FF0000"],
 		"TEXT_MUTED": ["#FF0000", "#FF0000"],
 		"TEXT_NORMAL": ["#FF0000", "#FF0000"]
 	},
